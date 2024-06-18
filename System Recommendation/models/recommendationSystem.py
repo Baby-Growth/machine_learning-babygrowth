@@ -1,11 +1,13 @@
-from flask import Flask, request, jsonify
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load dataset
-url_dataset = 'https://raw.githubusercontent.com/asfararikza/BabyGrowth_RecipesRecommender/main/dataset_rekomen.csv'
+url_dataset = 'https://raw.githubusercontent.com/asfararikza/BabyGrowth_RecipesRecommender/main/Data/dataset_rekomen.csv'
 new_df = pd.read_csv(url_dataset)
+
+url_complete_dataset = 'https://raw.githubusercontent.com/asfararikza/BabyGrowth_RecipesRecommender/main/Data/recipe_with_nutritions.csv'
+complete_df = pd.read_csv(url_complete_dataset)
 
 # Convert data into vectors
 cv = CountVectorizer()
@@ -39,34 +41,11 @@ def recommend_recipe(id_resep, top_n=5):
 
     # Retrieve the recipe IDs using their index
     recipe_indices = [i[0] for i in top_recipe_scores]
-    recommended_recipe = new_df.iloc[recipe_indices][['id_resep', 'nama_resep']]
+    recommended_recipe = complete_df.iloc[recipe_indices][['id_resep', 'nama_resep','gambar','porsi','kategori','kalori','protein','lemak','karbo']]
 
     # Return the recommended recipe IDs along with their similarity scores
     recommendations = recommended_recipe.copy()
     recommendations['similarity_score'] = [round(score[1], 3) for score in top_recipe_scores]
     return recommendations
 
-# Initialize Flask
-app = Flask(__name__)
 
-# Endpoint for getting recommendations
-@app.route('/recommend', methods=['GET'])
-def recommend():
-    id_resep = request.args.get('id_resep')
-    if not id_resep:
-        return jsonify({'error': 'Id resep tidak diberikan'}), 400
-
-    if id_resep not in new_df['id_resep'].values:
-        return jsonify({'error': 'Id resep tidak ditemukan'}), 404
-
-    rekomendasi = recommend_recipe(id_resep)
-    if isinstance(rekomendasi, str):
-        return jsonify({'error': rekomendasi}), 404
-    
-    # Convert DataFrame to dictionary
-    rekomendasi_dict = rekomendasi.to_dict(orient='records')
-    return jsonify({'rekomendasi': rekomendasi_dict})
-
-# Run Flask app
-if __name__ == '__main__':
-    app.run(debug=True)
