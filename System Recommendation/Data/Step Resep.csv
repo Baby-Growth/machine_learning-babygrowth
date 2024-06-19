@@ -1,0 +1,582 @@
+id_step,id_resep,step
+S1,R1,"Tumis bumbu halus, lalu masukkan daun salam dan sereh."
+S2,R1,"Tambahkan air kaldu, masukkan singkong putih, daging ikan, daging ayam cincang rebus, aduk-aduk hingga setengah matang."
+S3,R1,"Masukkan daun bayam, aduk hingga matang. Jika airnya mengental dapat ditambahkan air matang."
+S4,R1,"Angkat, lalu saring halus atau diblender. Sebelum disajikan tambahkan saus jeruk."
+S5,R2,"Kukus ikan, labu siam, tahu dan ubi ungu hingga matang"
+S6,R2,Lumat/blender semua bahan di atas
+S7,R2,Tambahkan santan dan kaldu jamur
+S8,R2,"Tambahkan air, saring dan sajikan"
+S9,R3,"Cincang daging paha ayam sampai halus Kukus Ubi, wortel dan tahu, dan daging ayam hingga matang. angkat"
+S10,R3,Aduk dengan kaldu jamur dan santan
+S11,R3,Lumat dengan air saat masih panas. Aduk rata.
+S12,R3,Saring dan Sajikan
+S13,R4,"Bersihkan salmon dari duri jika ada, potong bentuk kotak kecil"
+S14,R4,"Rebus terpisah salmon, kentang dan daun kelor hingga matang"
+S15,R4,"Hancurkan Kentang di mangkok tahan panas. Tambahkan mentega, aduk rata."
+S16,R4,"Masukkan potongan salmon dan daun kelor ke dalam kentang. Tambah kaldu jamur dan air, aduk rata"
+S17,R4,Saring dan Sajikan.
+S18,R5,"Rebus misua dan oyong hingga matang, tiriskan."
+S19,R5,"Tumis bawang putih, dan daun bawang hingga harum. Masukkan ikan dan jagung, masak sambil diaduk hingga jagung matang."
+S20,R5,"Tambahkan air dan santan kedalam tumisan, masukkan misua dan oyong matang,"
+S21,R5,Tambahan Royco Kaldu Spesial Jamur di akhir
+S22,R5,"Aduk rata, saring dan sajikan"
+S23,R6,Cincang halus paha ayam fillet
+S24,R6,"Tumis ayam, dengan daun bawang, bawang putih dan jahe"
+S25,R6,"Tambahkan nasi, buncis, santan, dan Royco Kaldu Spesial Ayam"
+S26,R6,Rebus dengan air hingga nasi menjadi bubur
+S27,R6,Haluskan dan saring
+S28,R7,Haluskan hati ayam dan daun kelor. Sisihkan.
+S29,R7,"Dalam panci masukkan beras, jagung, dan air. Rebus hingga beras menjadi lembut. Tambahkan Royco Kaldu Sepsial Jamur, aduk rata. Angkat."
+S30,R7,Lumat atau haluskan. Tambahkan hati ayam dan daun kelor.
+S31,R7,Saring dan sajikan.
+S32,R8,"Tumis daging sapi cincang, daun bawang dan bawang putih dengan mentega hingga harum"
+S33,R8,"Masukkan labu kuning, bengkuang, santan dan Royco Kaldu Spesial Jamur, masak hingga berubah warna"
+S34,R8,"Tuang air, masak hingga mendidih, kecilkan api, haluskan dengan blender"
+S35,R8,"Angkat, saring dan sajikan"
+S36,R9,"Dalam panci didihkan air. Masukkan bawang putih, jahe, dan bayam. Rebus hingga berubah warna. Angkat, tiriskan bayam."
+S37,R9,"Haluskan bayam, masukkan kembali ke dalam air rebusan dalam panci. Tambahkan nasi, dan Royco Kaldu Spesial Ayam. Aduk rata, masak hingga mendiddih."
+S38,R9,"Masukkan telur ayam mentah, aduk hingga telur ayam matang lalu tambahkan santan."
+S39,R9,Saring dan sajikan
+S40,R10,Tumis daging sapi dengan minyak hingga berubah warna
+S41,R10,Rebus ubi merah dan wortel hingga lunak
+S42,R10,"Tambahkan bumbu halus, cengkih, kayu manis, jahe, biji pala, santan, dan kecap manis. Masak hingga harum"
+S43,R10,"Masukkan Royco Kaldu Spesial Jamur dan air, masak sambil diaduk rata"
+S44,R10,Saring dan sajikan
+S45,R11,Lumuri tuna dengan Royco Kaldu Spesial Jamur. Kukus selama 20 menit atau hingga matang. Cincang halus ikan. Sisihkan.
+S46,R11,"Rendam daun bawang dan daun kelor dalam air dingin, remas sedikit, angkat. Tiriskan."
+S47,R11,"Dalam wadah berbeda lumat kuning telur dengan kacang wijen dan air perasan jeruk nipis. Tambahkan daun bawang, daun kelor dan tuna juga mayones MPASI. Aduk rata."
+S48,R11,Tata di atas roti tawar. Bakar dengan sedikit mentega. Sajikan.
+S49,R12,"Tumis daun bawang hingga harum. Masukkan daging giling ayam, santan dan gula, tumis hingga ayam berubah warna. Masukkan Royco Kaldu Spesial Ayam, daun kelor, dan kacang hijau kupas. Aduk rata. Angkat."
+S50,R12,"Siapkan plastic wrap, tata nasi diatas. Kepalkan. Buka beri lubang sedikit. Masukkan isi. Tutup sambil dikepalkan."
+S51,R12,"Bentuk sesuai selera. Hias dengan nori, jagung manis."
+S52,R12,Potong sesuai selera sebelum disajikan.
+S53,R13,"Kukus wortel, buncis, dan hati ayam hingga matang"
+S54,R13,Tumis bawang bombay dan bawang putih hingga harum
+S55,R13,"Masukkan telur ayam yang telah dicampur dengan susu dan royco kaldu spesial jamur, hingga membentuk lembaran dadar setengah matang"
+S56,R13,"Lalu masukan wortel, buncis dan hati ayam di atas telur."
+S57,R13,Lipat lembaran telur menyerupai omelette
+S58,R13,Sajikan omelette di atas nasi putih yang telah dikukus lunak.
+S59,R14,"Lelehkan margarin, masukkan bawang putih dan bawang bombai, tumis hingga harum."
+S60,R14,"Masukkan makaroni rebus, smoked beef, dan brokoli, masak sambil diaduk rata. Matikan api, aduk rata."
+S61,R14,"Masukkan susu dan telur kocok. Tambahkan Royco Kaldu Spesial Ayam, merica, dan ketumbar, aduk hingga rata. Masukkan keju cheddar, aduk rata."
+S62,R14,Tuang campuran ke dalam pinggan tahan panas yang telah diolesi margarine. Taburi permukaan dengan keju.
+S63,R14,Panggang dalam oven suhu 180°C hingga matang (+/- 40 menit).
+S64,R14,"Keluarkan, potong kecil dan sajikan segera."
+S65,R15,Rebus ubi cilembu yang sudah dikupas
+S66,R15,"Tambahkan wortel cincang, bawang putih cincang dan bayam yang sudah dipetik"
+S67,R15,Saring lalu parut ubi cilembudan peras bayam
+S68,R15,"Masukkan semua bahan kedalam mangkok berisi ayam giling lalu aduk rata, tambahkan Royco Kaldu Ayam Spesial Jamur dan santan"
+S69,R15,"Tambahkan tepung maizena agar adonan mengikat, aduk rata"
+S70,R15,bentuk bulat seukuran 20g
+S71,R15,Goreng hingga matang
+S72,R15,"Angkat, tiriskan"
+S73,R15,Potong halus/cincang sebelum disajikan
+S74,R16,"Panggang salmon dengan minyak sampai matang, lumatkan"
+S75,R16,"Rebus bayam sebentar, rendam dalam air dingin. Tiriskan sambil diperas agar tidak berair."
+S76,R16,"Iris halus bayam, campur dengan salmon dan Royco Kaldu Spesial Jamur. Aduk rata."
+S77,R16,"Lembutkan cream cheese, masukkan santan, campuran bayam dan salmon, lumat. Aduk rata."
+S78,R16,"Sajikan dengan Biskuit /cracker tawar, potong kecil."
+S79,R17,"Dalam wadah masukkan kentang kukus, bayam, wortel, daun bawang, telur ayam, dan Royco Kaldu Spesial Ayam. Aduk rata. Sisihkan."
+S80,R17,Buang tulang dalam sayap ayam bagian winger.
+S81,R17,"Lumuri ayam dengan kecap manis, jahe, air jeruk nipis, dan mentega tawar. Aduk rata. Diamkan selama 15 menit."
+S82,R17,Beri isi dalam ayam. Tata di atas loyang panggang. Panggang 200ºC selama 20 menit. Keluarkan dari oven.
+S83,R17,Potong kecil dan sajikan hangat.
+S84,R18,"Kukus ikan, labu siam, tahu dan ubi ungu hingga matang"
+S85,R18,Lumat/blender semua bahan di atas
+S86,R18,Tambahkan santan dan Royco Kaldu Spesial Jamur
+S87,R18,"Tambahkan air, saring dan sajikan"
+S88,R19,"Kuah: dalam wajan tumis bawang putih dan jahe hingga harum. Tambahkan kecap asin dan air, masak sambil diaduk rata. Angkat."
+S89,R19,"Dalam wadah campur udang, wortel, tepung tapioka, bawang putih, dan Royco Kaldu Spesial Jamur, aduk rata."
+S90,R19,Tata potongan tahu di atas wadah tahan panas. Beri adonan udang. Siram dengan kuah.
+S91,R19,Kukus selama 10 menit. Angkat. Sajikan.
+S92,R20,Kukus ubi merah. Lumat hingga halus. Sisihkan serat ubi.
+S93,R20,"Tumis daging sapi hingga matang dengan minyak, campur ke dalam ubi yang telah lumat."
+S94,R20,"Tambahkan kacang hijau kupas, tepung tapioka, dan Royco Kaldu Spesial Jamur. Aduk rata, bagi menjadi 6 bagian sama besar. Bulatkan."
+S95,R20,Goreng dengan minyak. Angkat. Tiriskan.
+S96,R20,Potong kecil dan sajikan.
+S97,R21,"Rebus pakchoi, angkat. Haluskan bersama daun bawang. sisihkan."
+S98,R21,"Kukus fillet dori, potong kecil."
+S99,R21,"Lelehkan mentega dan campur dengan susu. Tumis pakchoi dan dori, masak hingga harum."
+S100,R21,Masukkan pasta rebus dan Royco Kaldu Spesial Jamur. Masak sambil diaduk rata.
+S101,R21,"Angkat, sajikan seger"
+S102,R22,Kupas kentang dan potong menjadi potongan kecil.
+S103,R22,Rebus kentang hingga empuk dan matang.
+S104,R22,Tiriskan kentang dan biarkan sedikit dingin.
+S105,R22,Haluskan kentang dengan menggunakan blender atau garpu.
+S106,R22,Tambahkan susu (atau air/kaldu sayuran) sedikit demi sedikit sambil terus dihaluskan hingga mencapai tekstur yang lembut dan kental.
+S107,R22,Campurkan dan aduk rata.
+S108,R23,"Lumuri udang dengan air jeruk nipis dan garam, lalu diamkan selama sekitar 15 menit."
+S109,R23,"Campurkan udang, tahu, tomat, kemangi, santan cair, dan bumbu halus hingga merata."
+S110,R23,"Bungkus campuran tersebut dengan daun pisang, tambahkan juga daun salam. Kukus hingga matang. Setelah matang, saat akan dicampur dengan nasi, ambil kemangi dan daun salamnya, lalu saring hingga teksturnya sesuai yang diinginkan."
+S111,R23,Sajikan dalam mangkuk saji.
+S112,R24,Rendam kacang hijau semalam dan masak hingga matang.
+S113,R24,Masukkan kacang hijau ke dalam saringan dan gerus hingga halus.
+S114,R24,Tambahkan susu atau ASI dan aduk hingga merata.
+S115,R25,Sajikan dalam mangkuk saji.
+S116,R25,"Tumis bumbu halus sampai harum, masukan ayam cincang sampai berubah warna."
+S117,R25,"Masukan air kaldu ayam, santan, salam, sereh dan daun jeruk masak sampai mendidih."
+S118,R25,"Masukan nasi, tahu dan labu siam dan wortel yang sudah diiris kecil-kecil masak sampai semua bahan matang dan empuk."
+S119,R25,Haluskan sampai tekstur yang diinginkan. Sajikan selagi hangat
+S120,R26,"Tumis bumbu halus hingga harum. Masukkan hati ayam, telur puyuh, dan buncis, lalu masak hingga berubah warna dan matang."
+S121,R26,"Tambahkan nasi, aduk rata, dan masak hingga nasi hangat dan berbaur dengan bahan lainnya."
+S122,R26,Sajikan dalam mangkuk saji.
+S123,R27,"Haluskan ikan dori, bawang putih, Roycco kaldu jamur spesial, brokoli, dan kuning telur dengan chopper atau blender. Aduk rata dan tambahkan maizena sedikit demi sedikit dan aduk rata. Siapkan kukusan."
+S124,R27,"Taruh dalam wadah tahan panas, lapisi dengan kertas baking supaya nanti mudah dipotong potong jika sudah matang. Kukus selama 25-30 menit, atau sampai matang. Biarkan dingin, potong potong sesuai selera jika sudah matang"
+S125,R27,Campur bawang putih ke telur dan kocok lepas.
+S126,R27,"Ambil potongan Dori yang telah dikukus, lalu balur ke tepung terigu, celup ke telur dan balur ke tepung panir kasar."
+S127,R27,Goreng hingga kuning keemasan.
+S128,R28,Dalam wadah kocok telur dengan Royco Kaldu Spesial Ayam.
+S129,R28,"Tambahkan daun kelor, wortel, jagung manis, kentang rebus, keju, dan daun bawang. Aduk rata. Sisihkan."
+S130,R28,Oleskan cetakan muffin kecil dengan minyak sayur. Tuang adonan 3/4 bagian cetakan. Panggang dalam oven 160°C selama 15 menit. Keluarkan. Sajikan.
+S131,R29,"Dalam wadah campur daging ayam giling, daun bawang, tepung maizena, bawang putih, Royco Kaldu Spesial Ayam, jahe, dan gula pasir. Aduk rata."
+S132,R29,Isi tahu dengan adonan ayam. Ratakan. Ulangi hingga bahan habis.
+S133,R29,"Didihkan kaldu, rebus tahu hingga matang. Tambahkan wortel, rebus hingga wortel empuk. Angkat."
+S134,R29,"Tata dalam mangkuk saji, taburi dengan daun bawang."
+S135,R29,Sajikan dengan nasi putih hangat.
+S136,R30,"Menggunakan blender masukkan ayam, tahu, bayam, bawang merah, dan bawang putih. Haluskan. Tuang ke atas kain bersih. Remas hingga kering."
+S137,R30,"Pindahkan ke dalam wadah. Tambahkan telur, terigu, dan 1 g Royco Kaldu Spesial Jamur. Aduk Rata."
+S138,R30,Kukus selama 20 menit. Keluarkan. Potong menjadi dadu 2 cm
+S139,R30,Celupkan ke dalam telur. Gulingkan ke tepung panir.
+S140,R30,Panggang dalam oven 160°C selama 30 menit. Keluarkan.
+S141,R30,Sajikan dengan nasi putih hangat.
+S142,R31,"Bola dori: dalam wadah aduk rata ikan dori, bawang putih, dan Royco Kaldu Spesial Jamur. tambahkan maizena dan aduk. Ambil 2 sdt adonan, bentuk bola, sisihkan."
+S143,R31,Goreng hingga berubah warna. Angkat. Tiriskan.
+S144,R31,"Panaskan 1 sdm minyak goreng. Tumis bawang merah, bawang putih, lengkuas, daun jeruk, dan daun salam hingga harum. Tambahkan kecap manis dan gula pasir, masak sambil diaduk rata."
+S145,R31,"Matikan api, masukkan Bola Dori yang sudah digoreng. Aduk rata. Pindahkan ke pinggan tahan panas. Panggang dalam oven suhu 170°C selama 20 menit. Keluarkan dari oven. Saat masih panas masukkan daun kelor. Aduk rata. Sajikan"
+S146,R31,"Masukkan bola dori, masak hingga tempe terlumur bumbu. Taburi wijen, aduk rata. Angkat."
+S147,R31,Sajikan dengan nasi putih hangat untuk 3-4 kali makan
+S148,R32,"Seduh daun bayam dengan air mendidih sampai layu, lalu tiriskan."
+S149,R32,"Proses bayam, tomat, dan 100 ml air dengan blender sampai lembut."
+S150,R32,Campurkan pure bayam dan tomat dengan air jeruk manis.
+S151,R32,Aduk hingga semua bahan tercampur rata.
+S152,R33,"Kukus ayam dan tambahkan daun jeruk, sisihkan."
+S153,R33,"Kukus tahu cina, brokoli, dan jagung."
+S154,R33,Siapkan wadah dan masukkan semua bahan kecuali daun jeruk. Blender hingga halus.
+S155,R33,Tuang ke dalam mangkok saji.
+S156,R34,Panaskan minyak zaitun atau minyak sayur di dalam panci.
+S157,R34,Tumis potongan fillet salmon hingga matang dan berubah warna.
+S158,R34,Masukkan potongan kentang ke dalam panci dan aduk rata dengan salmon.
+S159,R34,"Tuangkan kaldu ikan atau air ke dalam panci, tambahkan sedikit garam (jika diperlukan) dan bumbu pilihan (jika digunakan)."
+S160,R34,Tutup panci dan biarkan kentang dan salmon matang dengan api kecil hingga kentang empuk dan mudah dihancurkan.
+S161,R34,"Setelah kentang dan salmon matang, angkat panci dari kompor dan biarkan sedikit mendingin."
+S162,R34,Haluskan kentang dan salmon dengan menggunakan blender atau garpu hingga mencapai tekstur puree yang lembut dan kental.
+S163,R35,Cuci bersih semua bahan masakan dan potong caisim menjadi kecil-kecil sambil memanaskan teflon.
+S164,R35,"Ceplok telur, lalu orak-arik. Tambahkan air, nasi, tahu, dan sayur ke dalam teflon. Masak hingga semua bahan empuk, tambahkan sedikit bubuk bawang putih."
+S165,R35,"Setelah bahan-bahan menjadi empuk, masukkan minyak zaitun, aduk sebentar, lalu matikan kompor."
+S166,R35,Saring bubur dengan menggunakan saringan kawat. Saya bagi menjadi 2 porsi untuk pemberian MPASI.
+S167,R36,"Siapkan panci atau kukusan, masukkan air matang dan panaskan hingga mendidih."
+S168,R36,"Masukkan potongan labu kuning, daging ayam, wortel, dan kentang ke dalam kukusan atau panci."
+S169,R36,Tutup kukusan atau panci dan masak hingga semua bahan matang dan empuk.
+S170,R36,"Setelah matang, haluskan semua bahan dengan blender atau food processor hingga mencapai tekstur yang lembut dan mudah dikonsumsi oleh bayi."
+S171,R37,Blender semua bahan hingga halus.
+S172,R37,Tuang ke dalam mangkuk saji.
+S173,R38,"Lumuri ayam dengan minyak, bawang bombai, kecap asin, dan Royco Kaldu Spesial Ayam. Aduk rata. Diamkan selama 15 menit."
+S174,R38,"Panaskan wajan anti lengket diatas api besar. Masukkan ayam, masak sambil diaduk sampai ayam berubah warna. Angkat."
+S175,R38,Saus: Di atas api kecil menggunakan wajan datar masukkan mentega. Tumis bawang bombai hingga harum. Tambahkan air lemon dan peterseli. Masak sambil diaduk rata.
+S176,R38,"Matikan api, masukkan ayam. Aduk rata. Pindahkan ke wadah tahan panas. Panggang dalam oven suhu 170°C selama 20 menit."
+S177,R38,Keluarkan dari oven. Saat masih panas masukkan daun kelor. Aduk Rata.
+S178,R38,Sajikan dengan nasi putih hangat.
+S179,R39,Rebus telur ayam hingga matang.
+S180,R39,"Kupas kulit telur, lalu potong menjadi potongan kecil."
+S181,R39,Masukkan potongan telur ke dalam blender.
+S182,R39,Tambahkan air matang ke dalam blender.
+S183,R39,Haluskan telur hingga teksturnya lembut dan kental.
+S184,R39,Tuang pure telur ke dalam mangkuk saji.
+S185,R40,"Panaskan minyak. Tumis daging dan paprika hingga berubah warna. Tambahkan jamur enoki, tumis hingga layu. Angkat. Sisihkan."
+S186,R40,"Saus: dalam panci saus, tumis bawang bombai dan bawang putih hingga harum. Masukkan wijen dan kecap manis. Aduk rata."
+S187,R40,"Tuang susu dan Royco Kaldu Spesial Jamur, masak sambil diaduk rata."
+S188,R40,Masukkan tumisan daging jamur. Masak sambil diaduk rata. Angkat.
+S189,R40,Sajikan dengan mashed potato.
+S190,R41,"Bola daging: dalam wadah campur tepung panir kasar dengan susu hingga lunak. Masukkan daging, ubi merah, kacang merah, hati ayam, kecap asin, Royco Kaldu Spesial Jamur, pala, dan jahe. Aduk rata. Ambil 1 sdm adonan, bulatkan. Ulangi hingga bahan habis."
+S191,R41,"Di atas wajan datar lelehkan mentega. Tata bola daging, masak hingga seluruh permukaan berubah warna. Angkat."
+S192,R41,"Masukkan tepung, masak hingga tepung berubah warna. Tuang krim sambil diaduk cepat agar tidak menggumpal. Tambahkan kecap manis dan kecap asin, aduk rata."
+S193,R41,Masukkan kembali bola daging ke dalam wajan. Masak di atas api kecil sambil diaduk rata. Angkat.
+S194,R41,Sajikan dengan mashed potato.
+S195,R42,"Di atas api sedang tumis bawang putih hingga harum. Tuang susu, keju, dan pala bubuk. Masak sambil diaduk hingga keju lumer."
+S196,R42,"Tambahkan ubi, telur dan Royco Kaldu Spesial Jamur aduk rata. Tambahkan pasta, aduk rata kembali."
+S197,R42,Tuang ke dalam pinggan tahan panas. Taburi dengan keju mozarella.
+S198,R42,Panggang 180°C selama 15 menit. Keluarkan. Sajikan.
+S199,R43,Rebus beras dengan 200 ml air.
+S200,R43,Aduk sampai tekstur nasi agak lembek.
+S201,R43,"Masukkan wortel, ikan dori, dan bawang bombay yang sudah diiris kasar."
+S202,R43,Masukkan jahe untuk mengatasi bau amis pada ikan.
+S203,R43,Aduk sampai semua bahan tercampur rata.
+S204,R43,Masukkan seledri.
+S205,R43,Aduk sampai mendapatkan kekentalan yang sesuai dengan lidah bayi.
+S206,R43,"Diamkan sampai agak hangat, lalu saring."
+S207,R43,Sajikan selagi hangat.
+S208,R44,Larutkan tepung ubi ungu dengan air sampai tidak ada gelembung.
+S209,R44,Nyalakan kompor dengan api kecil.
+S210,R44,Panaskan wadah antilengket kemudian masukkan adonan ubi ungu.
+S211,R44,Masak adonan yang sudah diaduk sampai mengental.
+S212,R44,"Masukkan pisang, lalu aduk lagi."
+S213,R44,"Tuangkan ke dalam mangkuk, tambahkan keju sesuai selera."
+S214,R45,Cuci semua bahan dengan air matang.
+S215,R45,Masukkan daging iga sapi dan tambahkan air.
+S216,R45,Masak iga sapi sampai empuk.
+S217,R45,"Masukkan kentang, wortel, dan edamame."
+S218,R45,Masak sampai semuanya matang.
+S219,R45,Blender sampai halus.
+S220,R46,Hancurkan biskuit sampai halus.
+S221,R46,Campurkan dengan margarin cair dan susun sebagai lapisan pertama.
+S222,R46,"Untuk cream cheese, campurkan susu formula, keju dan larutan maizena lalu masak sampai mengental."
+S223,R46,"Setelah mengental, tuang ke mangkuk sebagai lapisan kedua."
+S224,R46,Masukkan alpukat yang sudah dihaluskan sebagai lapisan ketiga.
+S225,R47,Bersihkan udang serta lepaskan kepala dan kulitnya.
+S226,R47,Potong wortel dan brokoli menjadi kecil-kecil.
+S227,R47,"Haluskan atau parut bawang merah dan putih, kemudian tumis."
+S228,R47,Masukkan udang dan tumis bersama bumbu.
+S229,R47,"Tambahkan air, brokoli, wortel, dan garam."
+S230,R47,"Tumbuk, cincang, atau blender (sesuaikan tekstur) yang sudah dimasak."
+S231,R47,Campurkan dengan bubur.
+S232,R47,Tambahkan kuah dari tumisan.
+S233,R48,"Cuci beras beserta kacang hijau dan tambahkan 150 ml air, masak selama 2 jam."
+S234,R48,Masukkan margarin untuk menumis.
+S235,R48,"Tambahkan bawang merah, putih, daun salam, kunyit, daging ayam yang sudah direbus."
+S236,R48,"Setelah wangi, tambahkan air secukupnya."
+S237,R48,"Saat sudah mendidih, tuang telur puyuh yang sudah dikocok."
+S238,R48,"Setelah itu, masukkan sawi."
+S239,R48,"Tunggu sampai air menyusut, matikan kompor."
+S240,R49,"Tumis bawang bombay dan daun bawang, kemudian masukkan daging cincang sedikit dan tomat halus."
+S241,R49,"Aduk rata, beri sedikit air kaldu dan maizena 1/2 sdt."
+S242,R49,"Hidangkan steak tempe dan sayuran, siram dengan saos tomat."
+S243,R49,"Panaskan mentega, tumis bawang bombay hingga harum."
+S244,R50,"Masukkan tepung maizena sambil terus diaduk, kemudian tuangkan susu, aduk terus hingga agak kental, angkat."
+S245,R50,"Tambahkan daun bayam, aduk hingga tercampur rata."
+S246,R50,Tuangkan saus ke dalam wadah berisi ikan.
+S247,R50,Sajikan.
+S248,R51,"Kukus wortel, bayam, dan tempe."
+S249,R51,"Setelah matang, cincang kasar atau bisa juga diparut."
+S250,R51,Sajikan di atas nasi lembek.
+S251,R51,Haluskan daging ayam bersama bawang putih.
+S252,R51,"Campurkan daging yang sudah digiling bersama sagu, aduk sampai rata."
+S253,R51,Siapkan air rebusan bakso lalu rebus bakso sampai mengapung.
+S254,R51,Angkat dan tiriskan.
+S255,R51,"Haluskan kunyit, bawang putih, dan bawang merah."
+S256,R51,Rebus air kaldu dan masukkan bumbu yang telah dihaluskan.
+S257,R51,Tambahkan santan kemudian aduk jangan sampai menggumpal.
+S258,R51,"Tata nasi dan bakso di mangkuk, tuang kuah kuning, sajikan."
+S259,R52,"Panaskan unsalted butter, tumis bawang merah dan bawang putih hingga harum."
+S260,R52,"Masukkan ayam, aduk hingga berubah warna."
+S261,R52,Masukkan wortel dan buncis.
+S262,R52,Tuang air kaldu dan masukkan bumbu lainnya.
+S263,R52,Masukkan nasi dan tuang kocokan telur puyuh. Aduk hingga kuah hampir menyusut.
+S264,R52,Masukkan irisan daun bawang dan seledri. Tunggu air menyusut.
+S265,R52,Matikan api. Risotto siap dihidangkan.
+S266,R53,Panaskan minyak. Tumis bawang merah dan daun bawang hingga layu dan harum.
+S267,R53,"Masukkan telur, sayuran, kecap asin, kecap ikan, dan saus tomat. Masak sambil diaduk hingga semua matang."
+S268,R53,"Masukkan nasi. Aduk hingga tercampur rata, angkat."
+S269,R53,Sajikan.
+S270,R54,Langkah pertama tumis daging ayam dan bawang bombay hingga matang menggunakan mentega unsalted.
+S271,R54,"Secara terpisah, kukus buncis dan brokoli hingga matang kemudian cicang halus."
+S272,R54,"Setelah ayam dan sayuran matang, campurkan ke dalam nasi halus dan aduk-aduk hingga tercampur rata."
+S273,R54,MPASI siap disajikan untuk si Kecil kesayangan Mama.
+S274,R55,"Tumis bawang merah dan bawang putih hingga harum, kemudian masukkan ke kuah kaldu yang mendidih."
+S275,R55,"Masukkan wortel, brokoli, dan tofu."
+S276,R55,Masukkan makaroni.
+S277,R55,Masukkan daun bawang dan seledri.
+S278,R55,Bumbui dengan garam dan merica.
+S279,R55,Sajikan hangat.
+S280,R56,"Pertama-tama, Bunda perlu mencuci kentang terlebih dahulu. Cuci bersih kentang tanpa harus mengupas kulitnya."
+S281,R56,"Selanjutnya, serut atau kupas kulit kentang sampai bersih. Rendam kentang yang sudah diserut ke dalam wadah berisi larutan air garam."
+S282,R56,"Panaskan margarin di atas wajan atau penggorengan. Kemudian, tumis daun bawang, seledri, dan daging giling. Masak sampai berubah warna."
+S283,R56,"Bila sudah berubah warna, masukkan kentang dan air."
+S284,R56,Masak dengan api kecil sampai kentang mulai matang.
+S285,R56,Tambahkan garam dan gula pasir ke dalamnya. Aduk sampai merata.
+S286,R56,Kukus sampai airnya terserap habis.
+S287,R56,"Sajikan dalam mangkuk, tim kentang daging giling siap disantap"
+S288,R57,"Campurkan kentang yang sudah diparut, daging ikan tenggiri, daun bayam, wortel, dan tahu ke dalam panci. Aduk merata."
+S289,R57,"Kemudian, tambahkan kaldu ikan ke dalamnya."
+S290,R57,Kukus semua bahan tersebut hingga matang.
+S291,R57,Tim kentang tenggiri wortel siap disajikan.
+S292,R58,"Pertama, rebus jagung manis terlebih dahulu. Pipil jagung dan haluskan dengan cara ditumbuk."
+S293,R58,"Jika sudah, dalam sebuah wadah segera campurkan jagung pipil, daging ikan kakap, tempe, nasi, wortel parut, garam, gula, dan air kaldu."
+S294,R58,"Kemudian, bagi menjadi 2-3 di mangkuk kecil tahan panas, kukus selama 30 menit sampai matang."
+S295,R58,Nasi tim jagung ikan kakap siap dihidangkan
+S296,R59,"Pertama, cuci beras hingga bersih. Kemudian, masak beras, daging ayam, dan daun salam bersamaan dengan air rendaman beras dalam sebuah panci hingga airnya menyusut."
+S297,R59,"Masukkan ubi yang sudah dihaluskan dan juga daging tomat, lalu aduk rata."
+S298,R59,Tambahkan bawang bombay dan kuning telur. Aduk merata lagi.
+S299,R59,Siapkan wadah atau mangkuk tahan panas dan olesi dengan margarin.
+S300,R59,"Masukkan campuran beras dan daging, kemudian tambahkan irisan sawi dan parutan keju."
+S301,R59,Kukus seluruh bahan selama kurang lebih 30 menit.
+S302,R59,"Keluarkan nasi tim dari cetakan, menu mpasi 1 tahun siap disajikan untuk si Kecil."
+S303,R60,Oleskan margarin dan letakkan daun jeruk di dasar mangkuk atau wadah tahan panas.
+S304,R60,"Susun di atasnya dengan urutan labu kuning, bayam, ikan tenggiri giling, dan bawang bombay."
+S305,R60,"Tambahkan air kaldu, kemudian kukus hingga matang"
+S306,R60,"Jika sudah matang, keluarkan tim dari cetakan. Tim labu ikan siap disajikan."
+S307,R61,"Tuang susu cair, agar-agar, dan gula ke dalam panci."
+S308,R61,"Rebus sampai mendidih. Ambil sedikit adonan rebusan, lalu campur dengan kuning telur. Aduk rata."
+S309,R61,"Kemudian masukkan kembali ke dalam rebusan susu dan agar-agar. Beri pasta vanila dan garam, aduk rata. Tuang pada cetakan atau cangkir, tunggu hingga membeku."
+S310,R62,"Rebus makaroni hingga matang, haluskan."
+S311,R62,"Tumis bumbu halus hingga harum, lalu masukkan daging giling. Masak hingga matang."
+S312,R62,"Masukkan makaroni, telur, keju parut, dan garam secukupnya. Aduk hingga merata."
+S313,R62,Letakkan adonan pada wadah yang telah diolesi mentega.
+S314,R62,Kukus sekitar 30 menit.
+S315,R62,"Jika diperlukan, saring hingga teksturnya sesuai yang diinginkan."
+S316,R63,"Cuci bersih seledri, wortel, dan kentang."
+S317,R63,"Masak nasi putih hingga menjadi bubur, lalu tambahkan seledri."
+S318,R63,"Kukus wortel dan kentang sampai empuk. Setelah matang, saring bubur, wortel dan kentang."
+S319,R63,Campur semua bahan dengan susu formula atau ASI sesuai selera. Aduk hingga rata.
+S320,R63,Siap disajikan.
+S321,R65,"Rebus air sampai mendidih. Sambil menunggu air campurkan tahu, daging ayam cincang, bumbu halus, garam, gula, dan merica, selanjutnya haluskan serta tambahkan tapioka kemudian uleni hingga tercampur rata dan bisa di bentuk"
+S322,R65,Ambil adonan sebanyak satu sendok teh kemudian bentuk bulat dan langsung di masukkan pada air mendidih.
+S323,R65,Lakukan sampai adonan habis Setelah semua bola-bola tahu ayam mengapung masukan wortel dan jagung terlebih dulu tunggu sejenak kemudian brokoli dan telur puyuh rebus.
+S324,R65,"Masukan garam, gula dan merica serta irisan bawang daun dan seledri. Setelah sayuran matang koreksi rasa. Sajikan dengan nasi dan taburan bawang goreng."
+S325,R66,"Rebus ayam hingga setengah matang, tambahkan serai geprek, daun salam, daun jeruk, dan lengkuas yang digeprek."
+S326,R66,"Tumis bumbu yang dihaluskan hingga harum dan matang, lalu masukkan ke dalam rebusan ayam."
+S327,R66,"Tambahkan garam, gula dan merica. Masak hingga ayam matang dan empuk. Jangan lupa koreksi rasa."
+S328,R66,Daging ayam bisa diangkat dan di suir-suir.
+S329,R66,"Siapkan mangkuk berikan soun yang sudah direndam, toge, suiran daging ayam, serta telur puyuh rebus."
+S330,R66,"Tambahkan kuah soto ayam, serta taburkan daun bawang, seledri, dan bawang goreng."
+S331,R66,Sajikan dengan nasi hangat dan lengkapi dengan buah.
+S332,R67,"Rebus kaldu ayam hingga mendidih, masukkan kentang, kacang merah, dan labu kuning hingga setengah matang."
+S333,R67,"Masukkan suwiran ikan nila kukus, bawang merah goreng dan bawang putih goreng masak hingga matang."
+S334,R67,"Tambahkan tomat, bawang daun, bawang goreng, dan telur puyuh, aduk perlahan."
+S335,R67,"Tambahkan garam, gula dan merica secukupnya dan aduk rata. Angkat dan sajikan dengan buah."
+S336,R68,"Bersihkan ikan, lumuri dengan garam dan jeruk nipis atau cuka biarkan 10 menit kemudian bilas dengan air sampai bersih."
+S337,R68,Lumuri kembali ikan kembung dengan garam dan jeruk nipis biarkan 5 menit.
+S338,R68,"Panaskan minyak, goreng ikan kembung sampai matang sisihkan."
+S339,R68,"Tumis bumbu halus tambahkan sereh, salam dan laos tunggu sampai air mendidih."
+S340,R68,Masukkan potongan labu siam dan tempe masak sampai matang.
+S341,R68,Tambahkan santan dan masukkan ikan goreng.
+S342,R68,"Tambahkan garam dan gula secukupnya, masukkan tomat dan koreksi rasa. Sajikan dengan nasi hangat."
+S343,R69,"Campurkan tempe, daging ayam cincang, wortel, keju, bawang daun, tepung terigu, tapioka, telur, bawang goreng, dan bawang putih halus. Aduk sampai tercampur rata."
+S344,R69,Ambil loyang olesi minyak dulu kemudian masukkan adonan nugget dan ratakan. Kukus selama 30 menit atau sampai matang. Setelah dingin potong adonan sesuai ukuran yang diinginkan
+S345,R69,"Cairkan terigu dengan air sampai menjadi larutan yang cukup kekentalannya. Celupkan nugget ke tepung terigu basah, gulirkan pada tepung panir"
+S346,R69,Sebaiknya disimpan dulu di kulkas selama 30 menit atau bisa langsung di goreng di minyak yang panas. Sajikan selagi hangat. Bisa juga dijadikan lauk.
+S347,R70,"Kukus beras aron, tahu, daging ikan tuna, dan wortel hingga matang."
+S348,R70,"Setelah air di dalam kukusan habis, tambahkan sedikit air. Masukkan tomat, bayam, keju parut, dan bawang putih bubuk."
+S349,R70,Lanjutkan mengukus hingga menjadi bubur tim yang lembut.
+S350,R71,Masukkan semua bahan kecuali margarin ke dalam wadah.
+S351,R71,Kocok hingga tercampur rata.
+S352,R71,"Siapkan wajan panas, lalu lelehkan margarin secukupnya."
+S353,R71,Masak adonan seperti membuat telur dadar.
+S354,R71,"Setelah matang, angkat dan potong sesuai selera."
+S355,R72,"Masukkan nasi, serai, labu kuning serta 700 ml air ke dalam panci."
+S356,R72,Masak selama sekitar 40 menit hingga menjadi bubur.
+S357,R72,"Masukkan bayam, kemangi, dan garam, lalu masak hingga matang. Matikan api."
+S358,R72,Sajikan saat masih hangat.
+S359,R73,Kukus tempe selama 15 menit untuk menghilangkan rasa pahit dari soya tempe.
+S360,R73,"Tumis bawang bombai sampai kecokelatan. Masukkan 2 bawang putih, masak sebentar, dan sisihkan."
+S361,R73,"Dalam food processor, masukkan tempe, ayam, tepung, garam, merica, serta tumisan bawang bombai dan bawang putih. Proses hingga adonan halus."
+S362,R73,"Ambil sejumput adonan tempe, bentuk bulat, dan bungkus dengan potongan keju mozzarella. Pastikan keju tertutup rapat oleh adonan tempe."
+S363,R73,"Masukkan nugget ke dalam kocokan telur. Lalu, pindahkan ke dalam tepung roti."
+S364,R73,"Panaskan minyak dalam wajan, dan goreng nugget hingga warnanya kecokelatan dan keju mozzarella meleleh di dalamnya."
+S365,R73,Sajikan nugget tempe keju dengan saus tomat.
+S366,R74,Campurkan santan dengan tepung beras ke dalam panci. Aduk rata.
+S367,R74,"Nyalakan api, aduk terus sampai mengental."
+S368,R74,"Beri sedikit garam dan alpukat yang sudah dihaluskan. Setelah tercampur rata, matikan kompor."
+S369,R74,Pindahkan bubur sumsum ke dalam mangkuk.
+S370,R74,Beri gula jawa cair di atasnya. Sajikan selagi hangat.
+S371,R75,"Pertama, buat nasinya terlebih dulu. Panaskan minyak wijen, tumis beras sebentar lalu tambahkan kecap manis, kecap asin, saus tiram dan kaldu jamur, aduk hingga merata. Lalu tambahkan air kaldu dan biarkan hingga meresap ke dalam beras."
+S372,R75,"Di wajan terpisah, masak topping-nya. Tumis bawang merah dan bawang putih hingga harum. Masukkan potongan ayam dan jamur, aduk rata. Beri air secukupnya."
+S373,R75,"Pada wajan topping, tambahkan gula, garam, kecap manis, kecap asin, saus tiram, minyak wijen, gula, garam, kaldu jamur dan lada bubuk. Masak hingga air menyusut."
+S374,R75,"Tata topping ayam jamur dan telur rebus pada dasar mangkok, lalu tutup dengan beras yang telah dibumbui tadi. Kemudian aduk semua bahan hingga merata."
+S375,R75,Kukus selama kurang lebih 40 menit hingga matang.
+S376,R75,Sajikan selagi hangat.
+S377,R76,"Kupas tomat. Buang bijinya terlebih dahulu, lalu potong kecil-kecil."
+S378,R76,"Cincang bawang putih, lalu tumis sampai wangi"
+S379,R76,Masukkan tomat yang sudah dipotong-potong.
+S380,R76,Tambahkan oregano dan cooking cream. Masak hingga tomat lembut.
+S381,R76,"Setelah lembut, masukkan tomat dan campur hingga merata."
+S382,R76,"Tuang ke dalam mangkuk, taburi dengan keju (opsional)."
+S383,R77,Seduh oatmeal dengan air hangat.
+S384,R77,Aduk adonan tersebut secara merata dan tambahkan sedikit ASI.
+S385,R77,Berikan topping buah pisang serta stroberi.
+S386,R78,"Rebus jagung manis, kemudian parut secara halus."
+S387,R78,"Kupas tomat, cincang halus, dan buang bijinya."
+S388,R78,Iris halus seledri dan juga kangkung.
+S389,R78,"Masukkan nasi aron, ikan tenggiri, jagung manis, kangkung, dan tomat ke dalam mangkuk tahan panas."
+S390,R78,Beri air kaldu hingga bahan-bahan tadi terendam.
+S391,R78,"Saat sebelum matang, masukkan mentega dan seledri, kemudian tim kembali hingga matang."
+S392,R78,"Setelahnya, angkat dan hidangkan bubur tim jagung manis."
+S393,R79,"Campurkan semua bahan, kecuali kiwi, dan aduk adonan hingga benar-benar merata."
+S394,R79,"Setelah itu, panaskan wajan dan masak crepes dengan tipis."
+S395,R79,Ulangi proses tersebut sampai crepes terdiri dari beberapa lembar.
+S396,R79,Kemudian sajikan dengan topping buah kiwi yang sudah dipotong kecil-kecil.
+S397,R80,"Dalam sebuah mangkuk kecil, kocok telur, air, dan bayam."
+S398,R80,"Panaskan minyak zaitun di atas wajan. Tuang telur, aduk rata menggunakan spatula secara perlahan sampai menjadi orak-arik."
+S399,R80,"Sebelum matang sepenuhnya, masukkan parutan keju. Lalu, masak kembali hingga matang sempurna."
+S400,R80,Angkat dan tuang ke piring saji.
+S401,R81,"Pertama-tama, panaskan butter di atas wajan atau pan terlebih dahulu."
+S402,R81,"Tumis bawang bombay dan masak sampai harum. Kemudian, masukkan bawang putih, lalu masak selama beberapa menit."
+S403,R81,"Tambahkan potongan kentang, lalu masak kembali. Angkat dan sisihkan."
+S404,R81,"Rebus air dalam panci dan tuang tumisan bawang bombay, bawang putih, kentang, dan keju yang telah diparut. Gunakan api kecil dan tunggu sampai mendidih."
+S405,R81,Masukkan daging ayam. Tutup panci dan biarkan mendidih selama kurang lebih 10 menit sampai benar-benar matang.
+S406,R81,Angkat sup dan sajikan selagi hangat.
+S407,R82,"Rebus tomat terlebih dulu. Lalu, buang kulit dan bijinya. Kemudian, haluskan dan sisihkan."
+S408,R82,"Masak air sampai mendidih. Lalu, masukkan spaghetti. Taburi sedikit garam serta minyak goreng agar pasta tidak lengket. Masak selama 10-12 menit."
+S409,R82,Panaskan margarin dalam wajan. Tumis bawang bombay dan bawang putih sampai wangi.
+S410,R82,Masukkan daging dan tomat yang telah dihaluskan. Aduk sampai merata. Beri sedikit air.
+S411,R82,"Tunggu sampai airnya habis, masukkan pasta yang sudah matang. Aduk sampai merata."
+S412,R82,Taburi keju parut dan sajikan.
+S413,R83,"Kukus kentang, wortel, dan tomat hingga empuk."
+S414,R83,"Geprek dan cincang bawang putih, iris halus bawang merah, tumis daging sapi giling hingga matang dan harum."
+S415,R83,"Haluskan daging sapi yang sudah ditumis, kentang, wortel, dan tomat dengan menggunakan blender atau saringan kawat."
+S416,R83,Tambahkan parutan keju supaya lebih nikmat. Sajikan.
+S417,R84,Masak nasi putih dengan air secukupnya hingga teksturnya menjadi bubur.
+S418,R84,Kukus edamame dan brokoli hingga empuk.
+S419,R84,Tumis hati ayam dengan bawang putih.
+S420,R84,"Blender edamame, brokoli, dan hati ayam. Campurkan dengan bubur nasi."
+S421,R84,Haluskan dengan menggunakan saringan kawat. Pastikan teksturnya lumat dan bayi mudah menelannya. Bubur hati ayam dan edamame siap dinikmati.
+S422,R85,"Remat-remat ikan kembung yang sudah difillet, pisahkan jika ada durinya."
+S423,R85,"Geprek bawang putih, bawang merah, dan jahe."
+S424,R85,"Masukkan ikan, tepung beras, air, bawang, kaldu, dan jahe ke dalam slow cooker selama 3 jam."
+S425,R85,"Sesudah 2 jam, masukkan bayam."
+S426,R85,Setelah bubur matang masukkan ke blender atau food processor. Tambahkan sedikit minyak zaitun.
+S427,R86,Kukus apel hingga empuk.
+S428,R86,Lumatkan apel yang sudah dikukus dan pisang dengan menggunakan garpu.
+S429,R86,"Saring apel dan pisang, tambahkan yogurt."
+S430,R87,Parut wortel dan cincang daun bayam
+S431,R87,"Tumis bawang putih dan bawang merah hingga harum, masukkan teri basah, aduk hingga teri berubah warna."
+S432,R87,"Masukkan parutan wortel dan bayam. Tumis sebentar, tambahkan air."
+S433,R87,"Masukkan nasi putih, bumbui dengan garam secukupnya. Masak hingga teksturnya menjadi bubur lembek. Matikan kompor."
+S434,R87,"Saring bubur, pisahkan sesuai dengan porsi makan anak."
+S435,R88,"Cincang halus daging ayam dan jamur, bumbui dengan kaldu jamur, dan tumis sampai matang."
+S436,R88,"Dalam panci didihkan air lalu masukkan nasi putih, masak hingga menjadi bubur."
+S437,R88,Tambahkan ayam cincang dan jahe ke dalam panci.
+S438,R88,"Bagi pakchoi jadi bagian batang dengan daun, rebus terpisah dan blender."
+S439,R88,Masukkan pakchoi ke dalam bubur dan diaduk. Masukkan santan dan aduk.
+S440,R88,Saring dan sajikan.
+S441,R89,"Cuci pepaya dengan menggunakan air bersih, parut, dan saring menggunakan saringan kawat."
+S442,R89,"Masukkan biskuit susu ke dalam pepaya, hancurkan biskuit dan aduk. Siap disajikan"
+S443,R90,Kupas pisang dan potong dadu. Keruk bagian dalam alpukat.
+S444,R90,Blender pisang dan alpukat hingga lumat.
+S445,R90,"Tambahkan ASI atau susu formula, aduk rata."
+S446,R90,Saring kembali dan sajikan.
+S447,R91,"Didihkan air, masukkan kacang hijau, santan, jahe yang sudah digeprek, dan kayu manis."
+S448,R91,"Aduk-aduk, beri gula dan garam, koreksi rasa."
+S449,R91,"Setelah teksturnya berubah menjadi bubur, matikan kompor."
+S450,R91,Angkat dan saring hingga menjadi lumat. Siap disantap.
+S451,R92,"Haluskan buah pisang, kurma matang dan ubi ungu yang telah dikukus. Campur semua bahan hingga rata."
+S452,R92,Tambahkan susu sedikit demi sedikit hingga menjadi bubur bayi.
+S453,R92,Sajikan.
+S454,R93,Cuci bersih semua bahan-bahan.
+S455,R93,Rebus daging cincang dengan 300 ml air sampai mendidih.
+S456,R93,"Masukkan bawang putih, kentang, telur puyuh, dan potongan wortel sampai empuk."
+S457,R93,Aduk merata dan pastikan sudah empuk.
+S458,R93,"Matikan kompor, diamkan sampai agak hangat."
+S459,R93,Cacah atau cincang sop daging sampai agak kasar.
+S460,R94,Tumis bawang putih memakai margarin sampai harum.
+S461,R94,"Masukkan daging sapi cincang, tumis sampai berubah warna."
+S462,R94,"Tuang susu UHT dan air matang, masak sampai mendidih."
+S463,R94,"Masukkan makaroni, aduk sebentar."
+S464,R94,"Tambahkan jamur dan sawi, aduk merata."
+S465,R94,"Masukkan larutan maizena dan parutan keju, aduk sampai mengental."
+S466,R94,Sajikan selagi hangat.
+S467,R95,Potong roti menjadi 4 bagian.
+S468,R95,Siapkan telur di dalam wadah dan masukkan keju lalu aduk rata.
+S469,R95,Masukkan potongan roti ke dalam adonan telur.
+S470,R95,Panaskan wajan dan lelehkan margarin.
+S471,R95,Angkat roti yang sudah dicelupkan ke dalam adonan
+S472,R95,Panggang roti sampai matang.
+S473,R96,"Masukkan beras dan wortel ke dalam slow cooker, atur waktu selama 2 jam."
+S474,R96,"Sambil menunggu nasi tim, tumis bawang merah dan putih memakai margarin."
+S475,R96,"Setelah harum, masukkan air dan panaskan sampai mendidih."
+S476,R96,"Masukkan ayam giling, masak sampai setengah matang."
+S477,R96,"Masukkan tahu, kecap manis, dan asin."
+S478,R96,"Setelah matang, sajikan ayam dan tahu bersama nasi tim wortel."
+S479,R97,"Cuci beras yang sudah disiapkan, lalu masukkan air dan rebus sampai mendidih."
+S480,R97,"Masukkan bawang putih, bawang merah, dan ikan patin dengan api kecil."
+S481,R97,Aduk sesekali sambil memeriksa tingkat kelunakan beras.
+S482,R97,"Masukkan tomat, wortel, keju, gula, dan garam. Aduk sampai larut dan mengental."
+S483,R97,"Setelah matang, tuang ke dalam mangkuk dan siap disantap si kecil."
+S484,R98,"Masukan beras dan air ke dalam slow cooker, set 2 jam."
+S485,R98,"Panaskan margarin, masukkan bawang putih, masak hingga harum."
+S486,R98,"Masukkan ayam dan jagung, tambahkan sedikit air, kemudian masukkan keju, sawi, parsley, masak hingga air menyusut."
+S487,R98,"Kemudian, campurkan tumisan ayam ke dalam slow cooker. Setelah matang bagi menjadi 3 porsi."
+S488,R99,"Cuci bersih kentang, potong jadi 2 bagian. Rebus atau kukus hingga matang."
+S489,R99,"Setelah matang, kerok bagian tengah atau ambil dagingnya.Haluskan dengan garpu, sisihkan. Kulitnya jangan dibuang untuk wadah mangkuk."
+S490,R99,"Panaskan wajan, masukkan margarin lalu tumis bawang putih dan tambahkan daging tumis hingga matang. Lalu, sisihkan."
+S491,R99,"Dalam wadah lain, campurkan kentang, wortel, daging sapi, garam, dan merica bubuk. Aduk rata dan koreksi rasa."
+S492,R99,"Panaskan oven. Sambil menunggu oven panas, siapkan mangkuk dari kentang, isi dengan adonan hingga penuh. Beri potongan keju dan taburi dengan parsley."
+S493,R99,Panggang selama sekitar 25 menit. Hidangnya setelah matang.
+S494,R100,Rebus spaghetti sampai matang.
+S495,R100,"Untuk tumisan ayam, lelehkan margarin, tumis bawang putih sampai harum."
+S496,R100,"Masukkan ayam dan wortel, tumis sampai ayam berubah warna."
+S497,R100,Masukkan 1 sdt kaldu bubuk.
+S498,R100,Masukkan pala bubuk dan keju parut.
+S499,R100,"Aduk rata. Masak sebentar, angkat."
+S500,R100,Siapkan wadah anti panas. Masukkan spaghetti dan tumis ayam.
+S501,R100,Masukkan telur. Campur rata.
+S502,R100,Kukus selama 15 menit.
+S503,R101,"Rebus pasta dalam air hingga matang sedang (al dente). Angkat, tiriskan, lalu sisihkan."
+S504,R101,"Panaskan minyak zaitun, tumis bawang putih dan bawang bombay sampai harum."
+S505,R101,"Masukkan saus tomat, aduk hingga bumbu rata."
+S506,R101,"Tambahkan tuna, pasta rebus, jagung manis yang sudah dipipil, dan parsley cincang. Aduk rata. Angkat."
+S507,R101,"Taruh adonan pasta dalam pinggan atau loyang tahan panas, taburi dengan keju parut. Panggang sebentar dalam oven panas hingga keju kekuningan. Angkat dan sajikan hangat."
+S508,R102,"Kukus brokoli dan kembang kol yang sudah dicuci bersih selama kurang lebih 3-5 menit, atau sampai setengah matang. Angkat, kemudian masukkan ke dalam air es. Tiriskan dan sisihkan terlebih dahulu."
+S509,R102,"Untuk membuat saus keju, pertama-tama lelehkan unsalted butter dalam wajan. Kemudian, masukkan tepung terigu serbaguna, aduk hingga rata. Tuang susu sedikit demi sedikit sambil terus diaduk sampai mengental dan mendidih."
+S510,R102,"Masukkan keju mozarella dan parmesan secukupnya ke dalam wajah. Aduk sampai keju larut. Jika sudah, angkat dan sisihkan."
+S511,R102,Siapkan loyang atau wadah tahan panas yang sudah diolesi mentega. Tata brokoli dan kembang kol ke dalam wadah.
+S512,R102,"Selanjutnya, siram brokoli dan kol dengan saus keju. Taburi kembali dengan keju mozzarella, keju cheddar, dan parmesan bubuk."
+S513,R102,"Panggang brokoli dan kembang kol dalam suhu 180ºC hingga kecokelatan (kurang lebih 15 menit). Jika sudah, keluarkan dan sajikan hangat untuk si Kecil."
+S514,R103,"Panaskan margarin, lalu tumis bawang bombay dan bawang putih hingga harum."
+S515,R103,"Masukkan daging ayam dan tomat, lalu masak sampai daging matang."
+S516,R103,"Masukkan tahu dan brokoli, lalu aduk-aduk hingga merata. Angkat jika sudah harum dan berubah warna. Bagi tumisan ke dalam tiga wadah tahan panas."
+S517,R103,"Larutkan tepung beras dengan kaldu, bagi menjadi tiga bagian, lalu tuang masing-masing ke wadah tumisan sayur dan daging."
+S518,R103,Kukus selama 20 menit atau sampai matang. Sajikan nasi tim tahu brokoli.
+S519,R104,Rebus wortel dan ayam dengan api sedang selama sekitar 25 menit. Rebus lebih lama jika bayi Anda lebih suka makanan yang lebih lembut.
+S520,R104,"Setelah selesai memasak, tiriskan wortel dan ayam."
+S521,R104,Dinginkan dan sajikan.
+S522,R105,Masukkan semua bahan yang sudah disiapkan ke dalam blender.
+S523,R105,Haluskan bahan-bahan tersebut sampai merata.
+S524,R105,Tuang ke dalam mangkuk atau cangkir plastik milik si Kecil.
+S525,R106,"Masukkan beras, ikan, telur puyuh, minyak kelapa ke dalam panci."
+S526,R106,"Tambahkan air kaldu, tim hingga matang."
+S527,R106,"Masukkan wortel dan tomat, selanjutnya tim hingga matang."
+S528,R106,Nasi tim ikan kembung dan telur puyuh siap disajikan.
+S529,R107,Campur rata bumbu halus dengan telur kocok.
+S530,R107,"Maskkan bahan lainnya, aduk rata"
+S531,R107,"Panaskan 5 sdm minyak dalam wajan datar (diameter 18 cm), tuang 1/2 bagian adonan telur. Dadar sampai kedua sisinya kecokelatan. Selesaikan dengan sisa adonan."
+S532,R108,"Campur dada ayam dengan kecap asin dan air jahe, biarkan 10 menit. Ambil 12 wadah/mangkok kecil."
+S533,R108,"Bagi ke dalamnya daging ayam. Tuangkan adonan telur, tapi jangan penuh."
+S534,R108,"Kukus dengan api sedang kurang lebih 5 menit. Sebelum mengeras benar, taruh udang dan jamur di permukaan adonan. Tutup kembali, angkat setelah matang."
+S535,R109,"Rebus daging dan jerohan secara terpisah, buang air perebus jerohan."
+S536,R109,Ukur kaldu daging kurang lebih 1.500 ml.
+S537,R109,Potong daging dan jerohan menurut selera
+S538,R109,"Dengan 3 sdm minyak, tumis bumbu halus dan bumbu kering sampai harum."
+S539,R109,"Masukkan dalam kaldu, bumbu tumis, jerohan, daging, dan kelapa tumbuk. Masak sampai rasa kaldu sedap"
+S540,R109,"Hidangkan dengan ketupat/nasi, bersama pelengkapnya"
+S541,R110,"Pisang dikupas, potong menjadi dua bagian memanjang. Kemudian pisang tersebut masing-masing dijepit (gapit) sampai agak gepeng."
+S542,R110,"Panaskan teflon dengan mentega baru dimasukkan pisang yang gepeng, masak hingga berubah warna dan harum."
+S543,R111,"Haluskan pisang dengan garpu, tambahkan madu, telur, dan susu, aduk sampai rata."
+S544,R111,"Masukkan oat dan blueberry, campur jadi satu lalu masukkan ke dalam cup atau cetakan. Hiasl lagi bagian atas dengan blueberry."
+S545,R111,Panggang di suhu 160 derajat selama 45 menit. Jangan lupa panaskan oven terlebih dahulu di suhu 160 derajat Celsius selama 10 menit.
+S546,R112,"Didihkan air secukupnya, lalu rebus brokoli hingga layu. Kemudian, angkat."
+S547,R112,"Rendam brokoli dalam air es hingga dingin, lalu tiriskan."
+S548,R112,Tumis bawang bombay dan bawang putih hingga layu.
+S549,R112,"Masukkan brokol, lalu tumis sebentar. Angkat."
+S550,R112,Masukkan tumis ke dalam mangkuk blender.
+S551,R112,"Masukkan susu, lalu tumiskan hingga lembut."
+S552,R112,"Tuangkan ke dalam panci. Lalu, tambahkan kaldu, krim segar, merica, garam pala, dan daun salam. Kemudian, didihkan."
+S553,R112,"Angkat, sajikan dengan bahan pelengkapnya."
+S554,R113,"Blender pisang, telur, oatmeal, baking powder, dan garam hingga halus dan tercampur dengan rata."
+S555,R113,Diamkan adonan selama 10-20 menit sampai teksturnya menjadi agak kental.
+S556,R113,Panaskan wajan anti lengket dengan api sedang.
+S557,R113,"Tuangkan satu sendok makan besar adonan ke wajan, lalu goreng hingga kedua sisinya berwarna cokelat keemasan."
+S558,R113,Sajikan dengan madu atau topping yang disukai oleh balita.
+S559,R114,"Panaskan oven pada suhu 200 derajat Celcius, letakkan kertas memanggang, lalu lumuri dengan olive oil."
+S560,R114,"Gulung batangan keju mozzarella dengan kulit pangsit, lalu letakkan dengan sisi terlipat menghadap ke bawah. Kemudian, lumuri dengan olive oil sedikit."
+S561,R114,Panggang selama 10-12 menit. Balikkan dan lumuri dengan sedikit olive oil agar mudah membalik dan memastikan semua matang dengan merata.
+S562,R114,"Panggang lagi sampai 5-8 menit hingga warnanya kuning kecokelatan, lalu keluarkan dari oven."
+S563,R114,"Sajikan dengan saus pilihan, atau bisa dengan saus marinara."
+S564,R115,"Kocok butir telur kemudian masukkan nasi, tahu, wortel, tepung, daging ayam giling, bawang putih, daun bawang serta garam dan lada. Aduk rata hingga semua bahan tercampur dengan sempurna."
+S565,R115,Ambil adonan lalu bentuk menjadi bola-bola. Kemudian kukus selama kurang lebih 15-20 menit agar bola-bola nasi matang sempurna.
+S566,R115,"Kocok lepas 1 butir telur, celupkan bola-bola nasi satu persatu kedalam telur."
+S567,R115,Kemudian balur dengan tepung roti. Lakukan hingga bola-bola nasi habis.
+S568,R115,"Panaskan minyak, kemudian goreng bola-bola nasi hingga kecokelatan. Angkat dan sajikan."
+S569,R116,"Panaskan mentega dengan api kecil, masukkan daging ayam cincang dan tofu, aduk rata sampai matang."
+S570,R116,"Tuang kaldu ayam, masukkan juga wortel dan garam, aduk rata, koreksi rasa."
+S571,R116,"Masak hingga matang, angkat dan sajikan."
+S572,R117,Pecahkan telur dan kocok hingga semua bagian bercampur menjadi satu. Campur juga semua sisa bahan di wadah yang berbeda dengan telur.
+S573,R117,"Ketika sudah tercampur rata, Anda bisa langsung membentuk adonan kentang tersebut dalam bentuk bulat pipih untuk membuatnya terlihat seperti perkedel pada umumnya. Lakukan hal yang sama sampai semua adonan habis."
+S574,R117,"Kemudian celupkan adonan yang sudah dibentuk ke dalam kocokan telur dan goreng dengan minyak. Ulang proses ini sampai semua adonan digoreng. Jika sudah kecokelatan maka perkedel bisa diangkat, lalu disajikan."
+S575,R118,"Panaskan kaldu dalam panci dan tambahkan nasi hingga air mengering. Setelah itu matikan dan sisihkan sebentar. Sambil menunggu dingin, Anda bisa menumis bawang putih serta sisa bahan lainnya sampai warna berubah kecokelatan."
+S576,R118,Tuang bahan yang ditumis ke atas nasi dalam wadah tahan panas untuk dikukus selama 15 menit. Jika terlihat sudah matang maka nasi salmon siap disajikan.
+S577,R119,"Masukkan tulang ayam dan air ke dalam panci lalu panaskan hingga mendidih. Selagi menunggu, Anda bisa menumis bawang merah, bawang putih, garam, kunyit, dan daun bawang sampai harum. Tambahkan daging ayam dan aduk sampai bumbu meresap."
+S578,R119,Tuang 500 ml air kaldu yang sudah jadi dan beras ke dalam tumisan. Aduk lagi beberapa kali lalu diamkan hingga kembali mendidih. Selanjutnya siapkan panci untuk kukusan beserta lembaran aluminium yang sudah dilapisi dengan mentega.
+S579,R119,"Ketika tumisan mendidih, tuangkan ke dalam lembaran aluminium. Terakhir, tambahkan kaldu sampai ¾ dari wadah. Diamkan kukusan sampai matang lalu angkat dan nasi tim ayam kuning siap disajikan."
+S580,R120,"Panaskan olive oil di atas teflon. Tambahkan bawang putih dan bawang bombay untuk ditumis hingga harum. Kemudian masukkan daging ayam lalu masak sampai matang. Selanjutnya masukkan wortel parut, tomat, kacang merah, dan air."
+S581,R120,"Tunggu sampai mendidih lalu tambahkan kentang dan bubuk oregano. Terakhir, blender semua bahan sampai halus dan chicken bolognese siap disajikan."
